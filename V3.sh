@@ -296,7 +296,7 @@ fi
 if  [ $fri = 00 ] || [ $fri = 00 ]
 then 
 clear 
-sh Comand.sh
+sh V3.sh
 fi
 
 if [ $sf = 2 ] || [ $sf = 2 ]
